@@ -1,0 +1,7 @@
+pig => queen
+lion ^ man => pig
+boy ^ lion => man
+~apple v ~pig v lion
+~apple v lion v ~boy 
+apple
+boy

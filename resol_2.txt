@@ -1,0 +1,1 @@
+( ~B v P v M ) ^ ( B v ~P ) ^ ( B v ~M ) ^ (A v B v C)

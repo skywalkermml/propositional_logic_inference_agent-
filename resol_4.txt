@@ -1,0 +1,1 @@
+( hasred v hasgreen v hasblue v hasblack) ^ ( ~hasred v hasgreen ) ^ ( ~hasblue v hasred ) ^ ( ~hasblue v  hasblack v ~hasred) ^ hasblue

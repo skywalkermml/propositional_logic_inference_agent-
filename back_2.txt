@@ -1,0 +1,5 @@
+apple
+dog => boy
+apple ^ boy => cat
+~cat v dog
+cat ^ dog => egg 

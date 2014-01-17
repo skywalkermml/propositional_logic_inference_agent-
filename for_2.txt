@@ -1,0 +1,7 @@
+apple ^ book ^ fish => cat
+cat ^ dog => egg
+egg => fish
+apple
+book
+dog 
+ 
